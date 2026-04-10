@@ -1,3 +1,3 @@
 # git_test
 
-edit test 2
+test edit
