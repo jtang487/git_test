@@ -1,3 +1,3 @@
 # git_test
 
-new test 
+new test 2
